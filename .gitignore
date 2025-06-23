@@ -1,0 +1,4 @@
+env/*
+__pycache__/*
+invoice.properties
+invoice.pdf

@@ -1,0 +1,5 @@
+charset-normalizer==3.4.2
+jproperties==2.1.2
+pillow==11.2.1
+reportlab==4.4.2
+six==1.17.0

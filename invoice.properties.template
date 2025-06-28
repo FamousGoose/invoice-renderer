@@ -1,6 +1,24 @@
 # Invoice properties
 COMPANY=placeholder
-ADRESS=placeholder
-POSTAL_CODE=placeholder
-CITY=placeholder
+COMPANY_ADRESS=placeholder
+COMPANY_POSTAL_CODE=placeholder
+COMPANY_CITY=placeholder
 PHONE_NUMBER=placeholder
+CEO=placeholder
+BANK=placeholder
+ACCOUNT_NUMBER=placeholder
+COMPANY_ORGANIZATION_NUMBER=placeholder
+EMAIL=placeholder
+IBAN=placeholder
+BIC=placeholder
+INVOICE_NUMBER=placeholder
+PAYMENT_DAYS=placeholder
+
+
+CLIENT=placeholder
+CLIENT_ADRESS=placeholder
+CLIENT_POSTAL_CODE=placeholder
+CLIENT_CITY=placeholder
+CLIENT_NUMBER=placeholder
+CLIENT_REFERENCE=placeholder
+CLIENT_ORGANIZATION_NUMBER=placeholder
